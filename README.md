@@ -43,12 +43,12 @@
 
 <p align="center"><img src="./github/home.jpg"/></p>
 <p align="center"><img src="./github/card_hover.gif?raw=true"/></p>
-<p align="center"><img src=".github/card_iframe.gif?raw=true"/></p>
+<p align="center"><img src="./github/card_iframe.gif?raw=true"/></p>
 
 ## :closed_book: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 
-Feito com :purple_heart: por [Luiz Fernando](https://github.com/LuizFDOS)🚀
+Feito com :purple_heart: por [Luiz Fernando](https://luizfdos.github.io) 🚀
 
