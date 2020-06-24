@@ -31,7 +31,8 @@
 ### 2-3 Paginas de cursos e iframe
 
 - [x] Adicionar no header um link chamado Conteúdos. Essa página deve conter um grid onde devem ser mostrados os 3 principais cursos da Rocketseat: Starter, Launchbase e GoStack. Ao clicar em um dos cursos, deve ser aberta uma modal onde um iframe irá carregar as informações do curso selecionado.
-
+### 2-4 Construindo Foodfy
+- [x] construir um site completo para uma empresa de receitas chamada Foodfy. Para ver o resultado [clique aqui](https://github.com/luizfdos/foodfy)
 ## :construction_worker: Como usar 
 - Faça uma cópia deste respositório
 ```
